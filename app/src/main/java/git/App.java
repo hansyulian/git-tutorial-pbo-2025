@@ -5,7 +5,7 @@ package git;
 
 public class App {
     public String getGreeting() {
-        return "Hello World!";
+        return "Hello Object Oriented Programming!";
     }
 
     public static void main(String[] args) {
